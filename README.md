@@ -1,9 +1,10 @@
 # Wpsync Webspark
 ## Installation
-To install Plugin you need to clone this repository:
+1. To install Plugin you need to clone this repository in Wordpress "plugins" folder:
 ```bash
 git clone https://github.com/S-Igor-S/Woocommerce_products.git
 ```
+2. After this you can to activate plugin from admin panel
 ***
 
 ### Dependencies
