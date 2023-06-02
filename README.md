@@ -1,4 +1,4 @@
-# Wpsync Webspark
+# Wpsync API
 ## Installation
 1. To install Plugin you need to clone this repository in Wordpress "plugins" folder:
 ```bash
